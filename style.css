@@ -982,27 +982,3 @@ object {
 .gallery-caption {
 	display: block;
 }
-
-
-
-.dark_header {
-	color: black;
-}
-
-.med_header {
-	color: blue;
-}
-
-.light_header {
-	color: pink;
-}
-
-/*Footer Styles*/
-
-.footer-nav li a {
-	color: white;
-}
-
-.footer-nav li {
-	list-style: none;
-} 
