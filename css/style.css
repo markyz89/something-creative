@@ -860,3 +860,18 @@ object {
 .footer-nav li {
   list-style: none;
 } 
+
+/*overwrite*/
+
+.dark_header {
+  color: #000080;
+}
+
+.main-navigation ul {
+  text-transform: uppercase;
+  color: #000080;
+}
+
+.navbar-light .navbar-nav a.nav-link {
+  color: #000080;
+}
