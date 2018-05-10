@@ -830,3 +830,7 @@ object {
       color: red; }
 
 /*# sourceMappingURL=style.css.map */
+
+.not-an-actual-class {
+	color: blue;
+}
